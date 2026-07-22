@@ -1,0 +1,3 @@
+80/tcp   - Web Challenge
+22/tcp   - Fake SSH
+8822/tcp - Backdoor AI-Defense Port
