@@ -1,0 +1,2 @@
+SentinelNode VM built on Ubuntu 22.04 Server.
+Includes web challenge, SQLi simulation, AI-defense puzzle, and fake SSH.
