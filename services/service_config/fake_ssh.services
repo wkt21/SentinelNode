@@ -1,0 +1,8 @@
+[Unit]
+Description=SentinelNode Fake SSH Service
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/sentinelnode/services/fake_ssh.py
+
+[Install]
+WantedBy=multi-user.target
